@@ -1,6 +1,4 @@
-﻿using System.Reflection;
-
-public class LivingOrganism
+﻿public class LivingOrganism
 {
     public int Energy { get; set; }
     public int Age { get; set; }
