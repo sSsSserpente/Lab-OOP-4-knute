@@ -27,7 +27,7 @@ public interface IDriveable
     void Stop();
 }
 
-// A class that simulates the movement and change of movement of various vehicles
+// A class that simulates the movement and change of movement of various vehicles pimbirim
 public class TrafficSimulator
 {
     public void SimulateTraffic(List<Vehicle> vehicles, Road road)
